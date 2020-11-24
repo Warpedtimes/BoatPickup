@@ -1,0 +1,6 @@
+name: BoatPickup
+author: Warpedtimes
+version: 1.0
+main: me.BoatPickup.BoatPickup
+description: Automatically makes boats enter the players inventory on exit
+api-version: 1.16
